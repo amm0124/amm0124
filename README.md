@@ -1,20 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20🔭📫&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-## github status 
+# github status 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famm0124&count_bg=%23030303&title_bg=%233CC0B2&icon=github.svg&icon_color=%231F1595&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm0124&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm0124&hide=contribs,prs&show_icons=true&theme=)
 
-## 💻 my pages 💻
+
+# 💻 my pages 💻
 
 <img src="https://img.shields.io/badge/naverBlog💻-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/githubPages💻-222222?style=for-the-badge&logo=githubpages&logoColor=white">
 
-## solved.ac Profile 
+# solved.ac Profile  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amm0124)](https://solved.ac/amm0124/) 
-
+<!--
 ## Introduce 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=amm0124&theme=dark&locale=ko)](https://git.io/streak-stats)
 
 
 
@@ -37,11 +38,11 @@
 
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>>
 
-<!--
+
 **amm0124/amm0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm0124&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm0124)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
