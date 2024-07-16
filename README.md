@@ -18,14 +18,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <div align="center">
 
 
@@ -53,3 +45,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<link rel="alternate" type="application/rss+xml" href="{{amm0124.github.io}}/feed.xml">
