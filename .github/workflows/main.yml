@@ -38,3 +38,4 @@ jobs:
         git config --local user.name "amm0124"
         git commit -m "Updating Blog Posts"
         git push
+      
