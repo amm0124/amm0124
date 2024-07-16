@@ -34,7 +34,7 @@ jobs:
         git pull
         git add .
         git diff
-        git config --local user.email "본인의 깃허브 이메일 입력"
-        git config --local user.name "본인의 깃허브 이름 입력"
+        git config --local user.email "amm0124@naver.com"
+        git config --local user.name "amm0124"
         git commit -m "Updating Blog Posts"
         git push
