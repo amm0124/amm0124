@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<link rel="alternate" type="application/rss+xml" href="{{amm0124.github.io}}/feed.xml">
