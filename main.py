@@ -18,6 +18,6 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         print(feed_date, markdown_text)
      
         
-f = open("README.md", mode="w", encoding="utf-8")
+f = open("README.md", mode="a", encoding="utf-8")
 f.write(markdown_text)
 f.close()
