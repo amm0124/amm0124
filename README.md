@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20🔭📫&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
 # github status 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famm0124&count_bg=%23030303&title_bg=%233CC0B2&icon=github.svg&icon_color=%231F1595&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
