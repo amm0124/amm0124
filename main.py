@@ -15,20 +15,27 @@ lines = lines[:-8]
 with open("README.md", "w", encoding="utf-8") as f:
     f.writelines(lines)
 
+# Create a Markdown table header
 markdown_text = """
-## ✅ Latest Blog Post
+## ✅ Latest Blog Posts
 
-"""  # list of blog posts will be appended here
+| Date       | Title |
+|------------|-------|
+"""  # Table header for blog posts
 
+# Append the blog posts to the table
 for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
+    if idx >= MAX_POST:
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        formatted_date = time.strftime('%Y/%m/%d', feed_date)
+        title = feed['title']
+        link = feed['link']
+        # Add a row for each blog post
+        markdown_text += f"| {formatted_date} | [{title}]({link}) |\n"
         print(feed_date, markdown_text)
-     
-        
-f = open("README.md", mode="a", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+
+# Append the new content to the README.md file
+with open("README.md", mode="a", encoding="utf-8") as f:
+    f.write(markdown_text)
