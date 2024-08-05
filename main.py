@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
 # Save all but the last 8 lines
-lines = lines[:-8]
+lines = lines[:-9]
 
 # Write the updated content back to the file
 with open("README.md", "w", encoding="utf-8") as f:
