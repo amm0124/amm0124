@@ -41,11 +41,9 @@
 
 
 
-
-
 ## ✅ Latest Blog Posts
 
-| Date       | Title |
-|------------|-------|
-| 2024/09/02 | [[Git] LFS를 통해 Github에 대용량 파일을 올려보자](https://internetrecord.tistory.com/30) |
-| 2024/08/29 | [[Java] AutoCloseable interface와 try - with - resources](https://internetrecord.tistory.com/29) |
+| Date       | Category | Title |
+|------------|----------|-------|
+| 2024/09/02 | git | [[Git] LFS를 통해 Github에 대용량 파일을 올려보자](https://internetrecord.tistory.com/30) |
+| 2024/08/29 | Java | [[Java] AutoCloseable interface와 try - with - resources](https://internetrecord.tistory.com/29) |
