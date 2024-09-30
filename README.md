@@ -10,7 +10,6 @@
 <a href="https://www.youtube.com/channel/UCblbF27n4nAeekvkJpfwQ-w"> <img src="https://img.shields.io/badge/Youtube🎸-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"> </a>
 
 # solved.ac Profile  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amm0124)](https://solved.ac/amm0124/) 
 
 ## ✅ Latest Blog Posts
 
