@@ -3,7 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amm0124&hide=contribs,prs&show_icons=true&theme=)
 
-# 💻 my pages 💻
 
 ## ✅ Latest Blog Posts
 
