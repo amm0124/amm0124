@@ -1,7 +1,6 @@
 # github status 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famm0124&count_bg=%23030303&title_bg=%233CC0B2&icon=github.svg&icon_color=%231F1595&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 ## ✅ Latest Blog Posts
 
 | Date       | Category | Title |
