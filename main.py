@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL = "https://internetrecord.tistory.com/rss"
+URL = "https://amm0124.github.io/feed.xml"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
@@ -33,7 +33,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         title = feed['title']
         link = feed['link']
         # Extract category (if available)
-        category = feed['tags'][0]['term'] if 'tags' in feed and len(feed['tags']) > 0 else 'Uncategorized'
+        category = feed['tags'][0]['term'] if 'tags' in feed and len(feed['tags']) > 0 else 'Uncategorized'        
         # Add a row for each blog post
         markdown_text += f"| {formatted_date} | {category} | [{title}]({link}) |\n"
 
