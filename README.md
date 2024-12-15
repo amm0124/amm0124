@@ -3,5 +3,7 @@
 
 | Date       | Category | Title |
 |------------|----------|-------|
+| 2024/12/13 | CS | [[DB] DB 디자인 이론 - FD 대해 알아보자. (2)](http://amm0124.github.io/2024/12/13/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9D%B4%EB%A1%A0-FD(2)/) |
 | 2024/12/10 | recommended | [[추천] SYN Flooding Attack으로 알아보는 GO에서 3-way handshaking의 backlog 값 변경하기](http://amm0124.github.io/2024/12/10/recommended-posting(1)/) |
+| 2024/12/09 | CS | [[DB] DB 디자인 이론에 대해 알아보자.](http://amm0124.github.io/2024/12/09/%EB%94%94%EC%9E%90%EC%9D%B8-%EC%9D%B4%EB%A1%A0-FD(1)/) |
 | 2024/10/13 | Git | [[Git] LFS를 통해 Github에 대용량 파일을 올려보자](http://amm0124.github.io/2024/10/13/LFS/) |
